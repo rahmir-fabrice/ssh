@@ -1,4 +1,4 @@
-module github.com/gliderlabs/ssh
+module github.com/rahmir-fabrice/ssh
 
 go 1.12
 
